@@ -1,0 +1,7 @@
+#Raidin 1st Daily Code
+#1/9/24 
+def add_numbers(a, b):
+    return a + b
+
+def circleArea(a):
+    return a * a * 3.14 
